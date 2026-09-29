@@ -1,0 +1,6 @@
+---
+packageName: multiclusterhub-operator
+channels:
+- name: release-2.14
+  currentCSV: multiclusterhub-operator.v2.14.0
+defaultChannel: release-2.14
